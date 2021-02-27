@@ -1,0 +1,19 @@
+{
+  "name": "aws-apmlify-teting",
+  "version": "1.0.0",
+  "description": "used to test amplify for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmychen10/aws-apmlify-teting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmychen10/aws-apmlify-teting/issues"
+  },
+  "homepage": "."
+}
